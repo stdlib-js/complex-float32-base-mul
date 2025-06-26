@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-09)
+## Unreleased (2025-06-26)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`46ff8ea`](https://github.com/stdlib-js/stdlib/commit/46ff8ea7761ae438c4718681c5890f146fb0985e) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`568a25d`](https://github.com/stdlib-js/stdlib/commit/568a25d9a472197659a97d53e7c27cbe455f1bbe) - **docs:** update examples for `complex/float32/base/mul` [(#7290)](https://github.com/stdlib-js/stdlib/pull/7290) _(by Shabareesh Shetty)_
 -   [`b228bf3`](https://github.com/stdlib-js/stdlib/commit/b228bf31d96eacac782648edf8c29141d094a59b) - **docs:** update comments _(by Athan Reines)_
 -   [`3b08499`](https://github.com/stdlib-js/stdlib/commit/3b08499dcdae21f946e61da757c0c21da2e8f9ed) - **docs:** change package naming and examples for `complex/float32/base/mul` [(#7167)](https://github.com/stdlib-js/stdlib/pull/7167) _(by Shabareesh Shetty)_
@@ -52,11 +53,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
 -   Karan Anand
+-   Philipp Burckhardt
 -   Shabareesh Shetty
 
 </section>
