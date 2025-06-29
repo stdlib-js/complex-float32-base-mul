@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-26)
+## Unreleased (2025-06-29)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`dd6d9cf`](https://github.com/stdlib-js/stdlib/commit/dd6d9cff0105270f0664490f3c89b36d4df89032) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`46ff8ea`](https://github.com/stdlib-js/stdlib/commit/46ff8ea7761ae438c4718681c5890f146fb0985e) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`568a25d`](https://github.com/stdlib-js/stdlib/commit/568a25d9a472197659a97d53e7c27cbe455f1bbe) - **docs:** update examples for `complex/float32/base/mul` [(#7290)](https://github.com/stdlib-js/stdlib/pull/7290) _(by Shabareesh Shetty)_
 -   [`b228bf3`](https://github.com/stdlib-js/stdlib/commit/b228bf31d96eacac782648edf8c29141d094a59b) - **docs:** update comments _(by Athan Reines)_
